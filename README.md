@@ -11,8 +11,12 @@ vue template for my dayily development
 - router(History mode)
 
 ## feature
+### less
 
-- auto inject `variables.less`/`mixins.less`
+auto inject `variables.less`/`mixins.less`
+
+### request
+use `axios`
 
 ### mobile
 
