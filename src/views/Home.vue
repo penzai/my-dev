@@ -1,9 +1,12 @@
 <template>
-  <div class="home">This is home page</div>
+  <div class="home">
+    <p>This is home page</p>
+    <svg-icon icon-class="user" /> pz
+  </div>
 </template>
 
 <script>
 export default {
-  name: "Home"
+  name: "home"
 };
 </script>
